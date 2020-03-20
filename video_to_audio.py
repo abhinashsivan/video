@@ -1,7 +1,7 @@
 import moviepy.editor
 
 #location of the video file
-vid = 'video.mp4'
+vid = 'path to the video file'
 
 video = moviepy.editor.VideoFileClip(vid)
 
